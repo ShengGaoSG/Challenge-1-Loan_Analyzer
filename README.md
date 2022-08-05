@@ -14,7 +14,9 @@
 Present Value = Future Value / (1+ Annual_Discount_Rate/12)**Months
 
 3.	Write a conditional statement (an if-else statement) to decide whether the present value represents the loan's fair value.
+
 •	If the present value of the loan is greater than or equal to the cost, then print a message that says that the loan is worth at least the cost to buy it.
+
 •	If the present value of the loan is less than the loan cost, then print a message that says that the loan is too expensive and not worth the price.
 
 **Part 3: Perform Financial Calculations**
