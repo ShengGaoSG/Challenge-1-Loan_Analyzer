@@ -1,6 +1,6 @@
 # Loan Analyzer Application
-## Valuing Microcredit Loans for a Lending Startup
 ---
+## Valuing Microcredit Loans for a Lending Startup
 
 **Part 1: Automate the Calculations**
 1.	Use the len() function to calculate the total number of loans in the list.
