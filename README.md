@@ -9,15 +9,11 @@
 
 **Part 2: Analyze Loan Data**
 1.	Use get() on the dictionary of loan data to extract the future value and remaining months on the loan. Save these variables, named future_value and remaining_months, and then print each variable.
-
 2.	Use the formula for present value to calculate the fair value of the loan. Use a minimum required return of 20% as the discount rate. 
 Present Value = Future Value / (1+ Annual_Discount_Rate/12)**Months
-
 3.	Write a conditional statement (an if-else statement) to decide whether the present value represents the loan's fair value.
-
-•	If the present value of the loan is greater than or equal to the cost, then print a message that says that the loan is worth at least the cost to buy it.
-
-•	If the present value of the loan is less than the loan cost, then print a message that says that the loan is too expensive and not worth the price.
+  •	If the present value of the loan is greater than or equal to the cost, then print a message that says that the loan is worth at least the cost to buy it.
+  •	If the present value of the loan is less than the loan cost, then print a message that says that the loan is too expensive and not worth the price.
 
 **Part 3: Perform Financial Calculations**
 Create a financial function that can be reused with new data values.
@@ -25,6 +21,7 @@ Create a financial function that can be reused with new data values.
 o	Include parameters for future_value, remaining_months, and the annual_discount_rate.
 o	Return the present_value for the loan.
 2.	Use the function to calculate the present value of the new loan. Use an annual_discount_rate of 0.2 for this new loan calculation.
+
 **Part 4: Conditionally Filter Lists of Loans **
 Loop through a series of loans that the company is considering and filter them to find the inexpensive ones.
 1.	Create a new, empty list named inexpensive_loans.
