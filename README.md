@@ -23,7 +23,8 @@ o	Include parameters for future_value, remaining_months, and the annual_discount
 o	Return the present_value for the loan.
 2.	Use the function to calculate the present value of the new loan. Use an annual_discount_rate of 0.2 for this new loan calculation.
 
-**Part 4: Conditionally Filter Lists of Loans **
+
+**Part 4: Conditionally Filter Lists of Loans**
 
 Loop through a series of loans that the company is considering and filter them to find the inexpensive ones.
 1.	Create a new, empty list named inexpensive_loans.
